@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manalisambhavani/typescript-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manalisambhavani/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/manalisambhavani/typescript-tutorial#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
