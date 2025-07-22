@@ -1,4 +1,8 @@
-const score = 82;
+// const score = 82;
+
+console.log(process.argv);
+
+const score = Number(process.argv[2]);
 
 if (score >= 90 && score <= 100) {
     console.log("Grade A");

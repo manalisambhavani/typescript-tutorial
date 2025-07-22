@@ -18,6 +18,7 @@
   "homepage": "https://github.com/manalisambhavani/typescript-tutorial#readme",
   "description": "",
   "devDependencies": {
+    "@types/node": "^24.0.15",
     "typescript": "^5.8.3"
   }
 }
