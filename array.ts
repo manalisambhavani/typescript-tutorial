@@ -57,18 +57,3 @@
  */
 
 const arr: string[] = ["a", "b", "c", "d", "e", "f"];
-
-const indexFound = arr.findIndex((item) => {
-    console.log("Item:", item);
-    return item === "d";
-});
-
-console.log("Index of Value 'd':", indexFound);
-
-if (indexFound == -1) {
-    console.log("Value not Found");
-} else {
-    arr[indexFound] = "D";
-}
-
-console.log("Array after updating index:", arr);
